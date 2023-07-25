@@ -1,0 +1,8 @@
+.sidenav{
+    background: linear-gradient(
+         45deg,
+         #a6a0c1,
+         #635d61
+     ) !important;
+  height: 90px;
+}
