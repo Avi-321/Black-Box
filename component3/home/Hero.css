@@ -1,0 +1,25 @@
+.hero-container{
+    height: 100vh;
+    overflow: hidden;
+}
+
+.videoplay{
+    
+    position: absolute;
+    z-index: -9999;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    filter: brightness(0.4);
+    overflow: hidden;
+}
+.hero-item{
+    margin-top: 200px !important;
+}
+.heading-grad{
+    background: linear-gradient(45deg, white, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
